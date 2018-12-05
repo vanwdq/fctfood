@@ -1,0 +1,12 @@
+com\fct\common\MessageCode.class
+com\fct\FctApplication.class
+com\fct\controller\TestController.class
+com\fct\response\Response.class
+com\fct\config\DruidDBConfig.class
+com\fct\intercept\CustomPageInterceptor.class
+com\fct\response\ResponseUtil.class
+com\fct\intercept\PageSqlResolver.class
+com\fct\common\BaseMessageCode.class
+com\fct\config\WebMvcConfig.class
+com\fct\config\Swagger2.class
+com\fct\request\BaseRq.class
